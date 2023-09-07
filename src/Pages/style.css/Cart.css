@@ -1,0 +1,18 @@
+.cartwrapper{
+    width: 80%;
+   display: grid; 
+   margin:50px auto;
+   grid-template-rows: repeat(1,250px);
+   grid-template-columns: repeat(4,1fr);
+   
+}
+.cartCard{
+   
+}
+.cartCard img{
+    width: 50px;
+    height: 50px;
+}
+.product-title{
+    display: flex;
+}

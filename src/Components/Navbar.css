@@ -1,0 +1,24 @@
+.max-width{
+    max-width: 80%;
+    margin: 0% 20%;
+    display: flex;
+    
+}
+span{
+    font-size: 30px;
+    font-weight: 600;
+}
+.menu-item{
+    font-size: 26px;
+    font-weight: 500;
+    margin-left: auto;
+    
+}
+.navlink{
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.cart-number{
+    margin-left: 20px;
+}
